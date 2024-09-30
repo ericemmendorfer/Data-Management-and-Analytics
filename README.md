@@ -7,7 +7,8 @@ Homework and projects from DMA course Fall 2023 taught by Joseph Veroza
 
 
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework01-ericemmendorfer  
+
 Grade  
  Reasoning  
 Code Corrected
@@ -17,7 +18,8 @@ Code Corrected
   <summary>Overview:</summary>
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework02-ericemmendorfer  
+
 Grade  
  Reasoning  
 Code Corrected
@@ -54,7 +56,8 @@ In this assignment, you'll create a single notebook, (ipynb) that contains docum
 - describe whether or not they were able to answer your initial questions
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework03-ericemmendorfer  
+
 Grade  
  Reasoning  
 Code Corrected
@@ -80,7 +83,8 @@ This homework consists of two parts:
 2. A data cleaning / transformation project of your choice with pandas
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework04-ericemmendorfer  
+
 Grade  
  Reasoning  
 Code Corrected
@@ -90,7 +94,8 @@ Code Corrected
   <summary>Overview:</summary>
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework05-ericemmendorfer  
+
 Grade  
  Reasoning  
 Code Corrected
@@ -100,7 +105,8 @@ Code Corrected
   <summary>Overview:</summary>
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework06-ericemmendorfer  
+
 Grade  
  Reasoning  
 Code Corrected
@@ -110,7 +116,8 @@ Code Corrected
   <summary>Overview:</summary>
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework07-ericemmendorfer  
+
 Grade  
  Reasoning  
 Code Corrected
@@ -121,7 +128,8 @@ Code Corrected
   <summary>Overview:</summary>
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework08-ericemmendorfer  
+
 Grade  
  Reasoning  
 Code Corrected
