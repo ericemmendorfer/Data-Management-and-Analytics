@@ -1,5 +1,13 @@
 # Data-Management-and-Analytics, CSCI-UA479
 Homework and projects from DMA course Fall 2023 taught by Joseph Veroza  
+<details>
+  <summary>Course Description:</summary>
+  CSCI-UA 479 Data Management and Analysis  
+  
+Students that successfully complete CSCI-UA 479 Data Management and Analysis are not eligible to take CSCI-UA 60 Database Design and Implementation. Extracting, transforming and analyzing data in myriad formats. Using traditional relational databases as well as non-relational databases to store, manipulate, and query data. Students will learn how to work with data by writing custom programs, creating queries, and using current data analysis tools and libraries… all on a wide array of data sets. Additional related topics will be covered, such as data modeling, cloud databases, and API programming
+</details>
+
+
 ### Assignment 1: BitList and Book(s)
 <details>
   <summary>Overview:</summary>
