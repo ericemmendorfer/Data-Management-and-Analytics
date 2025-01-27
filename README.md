@@ -8,31 +8,19 @@ Students that successfully complete CSCI-UA 479 Data Management and Analysis are
 </details>
 
 
-### Assignment 1: BitList and Book(s)
+### [Assignment 1: BitList and Book(s)]( https://github.com/nyu-csci-ua-0479-001-fall-2023/homework01-ericemmendorfer )
+<details>
+  <summary>Overview:</summary>
+</details>
+ 
+
+### [Assignment 2: List Comprehensions, Classes, CSV, Tabular Data]( https://github.com/nyu-csci-ua-0479-001-fall-2023/homework02-ericemmendorfer  )
 <details>
   <summary>Overview:</summary>
 </details>
 
 
-
-Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework01-ericemmendorfer  
-
-Grade  
- Reasoning  
-Code Corrected
-
-### Assignment 2: List Comprehensions, Classes, CSV, Tabular Data
-<details>
-  <summary>Overview:</summary>
-</details>
-
-Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework02-ericemmendorfer  
-
-Grade  
- Reasoning  
-Code Corrected
-
-### Assignment 3: Sourcing Data, Summary Statistics, and Basic Data Visualization
+### [Assignment 3: Sourcing Data, Summary Statistics, and Basic Data Visualization]( https://github.com/nyu-csci-ua-0479-001-fall-2023/homework03-ericemmendorfer  )
 <details>
   <summary>Overview:</summary>
   Goals:
@@ -64,14 +52,8 @@ In this assignment, you'll create a single notebook, (ipynb) that contains docum
 - describe whether or not they were able to answer your initial questions
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework03-ericemmendorfer  
 
-Grade  
- Reasoning  
-Code Corrected
-
-
-### Assignment 4: Pandas Basics
+### [Assignment 4: Pandas Basics](https://github.com/nyu-csci-ua-0479-001-fall-2023/homework04-ericemmendorfer  )
 <details>
   <summary>Overview:</summary>
   Goals:
@@ -91,56 +73,32 @@ This homework consists of two parts:
 2. A data cleaning / transformation project of your choice with pandas
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework04-ericemmendorfer  
 
-Grade  
- Reasoning  
-Code Corrected
-
-### Assignment 5: Data from the Web, Combining Data
+### [Assignment 5: Data from the Web, Combining Data](https://github.com/nyu-csci-ua-0479-001-fall-2023/homework05-ericemmendorfer  )
 <details>
   <summary>Overview:</summary>
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework05-ericemmendorfer  
 
-Grade  
- Reasoning  
-Code Corrected
 
-### Assignment 6: Single Table, Importing Data, SQL
+### [Assignment 6: Single Table, Importing Data, SQL](https://github.com/nyu-csci-ua-0479-001-fall-2023/homework06-ericemmendorfer  )
 <details>
   <summary>Overview:</summary>
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework06-ericemmendorfer  
 
-Grade  
- Reasoning  
-Code Corrected
-
-### Assignment 7: ER diagrams, SQL queries, Postgresql, Normalization, DDL Commands
+### [Assignment 7: ER diagrams, SQL queries, Postgresql, Normalization, DDL Commands](https://github.com/nyu-csci-ua-0479-001-fall-2023/homework07-ericemmendorfer  )
 <details>
   <summary>Overview:</summary>
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework07-ericemmendorfer  
 
-Grade  
- Reasoning  
-Code Corrected
-
-
-### Assignment 8: Window Functions, Analyze Query Performance, SQLAlchemy
+### [Assignment 8: Window Functions, Analyze Query Performance, SQLAlchemy](https://github.com/nyu-csci-ua-0479-001-fall-2023/homework08-ericemmendorfer  )
 <details>
   <summary>Overview:</summary>
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0479-001-fall-2023/homework08-ericemmendorfer  
 
-Grade  
- Reasoning  
-Code Corrected
 
 ### In Class Assignment 1: Manual File Parsing and Data Visualizstion
 ### In Class Assignment 2: Normalization
